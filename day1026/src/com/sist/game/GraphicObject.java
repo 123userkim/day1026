@@ -34,3 +34,15 @@ public class GraphicObject {
 	//적, 미사일, 우주선 세개의 객체들이 keyPressed를 자신에게 맞도록 오버라딩 합니다.
 	public void keyPressed(KeyEvent event) {}
 }
+
+
+
+
+
+
+
+
+
+
+
+

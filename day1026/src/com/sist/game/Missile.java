@@ -19,7 +19,7 @@ public class Missile extends GraphicObject {
 	public void update() {
 		//만약에 미사일이 발사 되었다면 y좌표를 1씩 감소합니다.
 		if(launched) {
-			y -= 50;
+			y -= 10;
 		}
 		
 		//미사일의 y좌표가 화면의 눈에 안보이는 영역이면 launched에 false를 설정합니다
@@ -47,3 +47,15 @@ public class Missile extends GraphicObject {
 		}
 	}
 }
+
+
+
+
+
+
+
+
+
+
+
+
